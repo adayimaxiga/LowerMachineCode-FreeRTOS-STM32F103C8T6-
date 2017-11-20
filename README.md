@@ -1,6 +1,11 @@
-###My First Project###
+# My First Project
 
-##Messege##
+## Messege
+
+
+-----
+
+
 
 		@ChipType:	STM32F103C8T6
 
@@ -28,6 +33,7 @@
 										PA3				PA2
 
 Total RAM Size = RW Data + ZI Data
+
 Total ROM Size = Code + RO Data + RW Data
 
 
